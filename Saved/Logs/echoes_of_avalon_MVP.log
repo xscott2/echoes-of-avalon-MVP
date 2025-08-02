@@ -3724,3 +3724,1492 @@ Sampler Limit: 16
 [2025.08.02-05.34.50:062][260]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
 [2025.08.02-05.34.50:072][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2025.08.02-05.34.50:108][261]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.08.02-05.39.31:954][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2542.326904
+[2025.08.02-05.39.32:953][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-05.39.32:953][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2542.994629, Update Interval: 309.047516
+[2025.08.02-05.40.01:649][358]LogSlate: Took 0.006572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.08.02-05.40.22:924][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.08.02-05.40.41:290][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.02-05.41.21:735][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-05.41.21:782][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-05.41.21:788][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-05.41.21:788][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-05.41.21:806][907]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.08.02-05.41.21:807][907]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter7F21212F45CFBB3D598EFEAB634EB44E.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.08.02-05.41.21:814][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.234 ms (total: 1:27 min)
+[2025.08.02-05.41.21:866][907]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-05.41.21:866][907]LogContentValidation: Enabled validators:
+[2025.08.02-05.41.21:866][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-05.41.21:866][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-05.41.21:866][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-05.41.21:866][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-05.41.21:866][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-05.41.21:866][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-05.41.21:866][907]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.08.02-05.45.20:654][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2891.038086
+[2025.08.02-05.45.20:795][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-05.45.20:795][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2891.171631, Update Interval: 358.710907
+[2025.08.02-05.46.28:834][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.08.02-05.47.23:554][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.08.02-05.47.23:557][432]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_echoes-of-avalon-MVP/level-blockout' took 0.034
+[2025.08.02-05.47.23:558][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-05.47.23:573][432]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-05.47.23:573][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-05.47.23:592][432]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2025.08.02-05.47.23:592][432]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter_Auto22F73B965427EF8373A6E68BA03CA8A38.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2025.08.02-05.47.23:592][432]LogFileHelpers: Auto-saving content packages took 0.035
+[2025.08.02-05.47.51:477][516]LogClass: Warning: Type mismatch in is sprinting  of BP_ThirdPersonCharacter_C - Previous (DoubleProperty) Current(BoolProperty) in package: FObjectReader
+[2025.08.02-05.47.51:524][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.08.02-05.47.54:899][844]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.02-05.48.11:271][521]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.02-05.48.11:274][521]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.02-05.48.17:902][265]LogSlate: Window 'Plugins' being destroyed
+[2025.08.02-05.48.21:009][579]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.02-05.48.33:304][816]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.02-05.48.33:307][816]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.02-05.49.20:338][420]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.08.02-05.49.20:343][420]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.08.02-05.49.20:352][421]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.08.02-05.49.24:312][897]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_sprint
+[2025.08.02-05.49.24:408][897]LogContentBrowser: End creating deferred item NewInputAction
+[2025.08.02-05.49.30:309][552]LogStreaming: Display: FlushAsyncLoading(1792): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-05.49.30:310][552]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/_echoes-of-avalon-MVP/Input/IMC_Default.IMC_Default
+[2025.08.02-05.51.29:680][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-05.51.29:730][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_echoes-of-avalon-MVP/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.02-05.51.29:730][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/_echoes-of-avalon-MVP/Input/IMC_Default]
+[2025.08.02-05.51.29:740][104]LogSavePackage: Moving output files for package: /Game/_echoes-of-avalon-MVP/Input/IMC_Default
+[2025.08.02-05.51.29:740][104]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/IMC_Default434923AE481B52844591858EA0641662.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/_echoes-of-avalon-MVP/Input/IMC_Default.uasset'
+[2025.08.02-05.51.29:746][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.877 ms (total: 1:27 min)
+[2025.08.02-05.51.29:776][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-05.51.29:776][104]LogContentValidation: Enabled validators:
+[2025.08.02-05.51.29:776][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-05.51.29:776][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-05.51.29:776][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-05.51.29:776][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-05.51.29:776][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-05.51.29:776][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-05.51.29:777][104]AssetCheck: /Game/_echoes-of-avalon-MVP/Input/IMC_Default Validating asset
+[2025.08.02-05.51.53:430][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3283.810791
+[2025.08.02-05.51.53:556][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-05.51.53:556][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3283.927490, Update Interval: 350.207214
+[2025.08.02-05.53.41:196][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.08.02-05.57.46:916][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.02-05.57.46:919][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_echoes-of-avalon-MVP/level-blockout' took 0.034
+[2025.08.02-05.57.46:919][134]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-05.57.46:934][134]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-05.57.46:934][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-05.57.46:958][134]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2025.08.02-05.57.46:958][134]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter_Auto35749DE5F47E15C54417B70866C80699C.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2025.08.02-05.57.46:959][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_echoes-of-avalon-MVP/Input/Actions/IA_sprint] ([1] browsable assets)...
+[2025.08.02-05.57.46:959][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/_echoes-of-avalon-MVP/Input/Actions/IA_sprint]
+[2025.08.02-05.57.46:964][134]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_echoes-of-avalon-MVP/Input/Actions/IA_sprint_Auto3
+[2025.08.02-05.57.46:964][134]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/IA_sprint_Auto3A4EE55804CE3F465AD790CAB3EBAFD3F.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/_echoes-of-avalon-MVP/Input/Actions/IA_sprint_Auto3.uasset'
+[2025.08.02-05.57.46:965][134]LogFileHelpers: Auto-saving content packages took 0.045
+[2025.08.02-05.58.25:826][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3676.230957
+[2025.08.02-05.58.26:467][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-05.58.26:467][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3676.796387, Update Interval: 321.391022
+[2025.08.02-05.59.14:208][462]LogDerivedDataCache: C:/Users/xscot/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.075 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4355 files in 5879 folders with total size 2776 MiB.
+[2025.08.02-06.02.47:415][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.08.02-06.04.27:325][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4037.725830
+[2025.08.02-06.04.28:324][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-06.04.28:324][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4038.390869, Update Interval: 312.566925
+[2025.08.02-06.07.53:774][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.02-06.07.53:779][479]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_echoes-of-avalon-MVP/level-blockout' took 0.036
+[2025.08.02-06.07.53:780][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-06.07.53:802][479]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-06.07.53:802][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-06.07.53:824][479]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2025.08.02-06.07.53:824][479]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter_Auto40135EEC94EFCEDFE9D79528897785C73.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2025.08.02-06.07.53:825][479]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.08.02-06.09.21:486][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.08.02-06.10.27:315][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4397.720215
+[2025.08.02-06.10.27:456][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-06.10.27:456][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4397.852051, Update Interval: 338.392883
+[2025.08.02-06.13.31:029][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.02-06.16.42:363][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4772.761719
+[2025.08.02-06.16.43:360][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-06.16.43:360][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4773.425781, Update Interval: 352.893463
+[2025.08.02-06.17.54:434][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.08.02-06.17.54:438][254]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_echoes-of-avalon-MVP/level-blockout' took 0.033
+[2025.08.02-06.17.54:438][254]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-06.17.54:454][254]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-06.17.54:454][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-06.17.54:476][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2025.08.02-06.17.54:476][254]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter_Auto5E8C007404AA2B7294FF3018006F0DECD.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2025.08.02-06.17.54:477][254]LogFileHelpers: Auto-saving content packages took 0.039
+[2025.08.02-06.21.50:097][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.08.02-06.23.23:858][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5174.278809
+[2025.08.02-06.23.24:859][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-06.23.24:859][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5174.944336, Update Interval: 336.351196
+[2025.08.02-06.25.58:418][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.02-06.25.59:737][986]LogSlate: Window 'Save Content' being destroyed
+[2025.08.02-06.25.59:875][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-06.25.59:903][986]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-06.25.59:913][986]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-06.25.59:914][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-06.25.59:937][986]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.08.02-06.25.59:938][986]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacterF837961F47F5F2F9EC1B8489CBB33C72.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.08.02-06.25.59:939][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_echoes-of-avalon-MVP/Input/Actions/IA_sprint] ([1] browsable assets)...
+[2025.08.02-06.25.59:939][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/_echoes-of-avalon-MVP/Input/Actions/IA_sprint]
+[2025.08.02-06.25.59:944][986]LogSavePackage: Moving output files for package: /Game/_echoes-of-avalon-MVP/Input/Actions/IA_sprint
+[2025.08.02-06.25.59:944][986]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/IA_sprintAFB0FE22481FC7B3BC3440BF8D18E839.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/_echoes-of-avalon-MVP/Input/Actions/IA_sprint.uasset'
+[2025.08.02-06.26.00:077][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.206 ms (total: 1:27 min)
+[2025.08.02-06.26.00:121][986]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.02-06.26.00:121][986]LogContentValidation: Enabled validators:
+[2025.08.02-06.26.00:121][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-06.26.00:121][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-06.26.00:121][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-06.26.00:121][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-06.26.00:121][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-06.26.00:121][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-06.26.00:121][986]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.08.02-06.26.00:121][986]AssetCheck: /Game/_echoes-of-avalon-MVP/Input/Actions/IA_sprint Validating asset
+[2025.08.02-06.26.27:104][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.08.02-06.26.31:268][970]LogSlate: Window 'Details' being destroyed
+[2025.08.02-06.26.33:830][275]LogSlate: Window 'Details' being destroyed
+[2025.08.02-06.26.42:556][216]LogSlate: Window 'Details' being destroyed
+[2025.08.02-06.26.54:976][610]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.02-06.26.54:981][610]LogContentBundle: [level-blockout(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.02-06.26.54:981][610]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' started...
+[2025.08.02-06.26.54:983][610]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' took 1.848 ms (total: 22.362 ms)
+[2025.08.02-06.26.54:983][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-06.26.55:016][610]LogPlayLevel: Creating play world package: /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.26.55:033][610]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.02-06.26.55:037][610]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.876 ms (total: 36.178 ms)
+[2025.08.02-06.26.55:038][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021517s)
+[2025.08.02-06.26.55:038][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout to /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout (0.021572s)
+[2025.08.02-06.26.55:062][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.08.02-06.26.55:065][610]LogChaosDD: Creating Chaos Debug Draw Scene for world level-blockout
+[2025.08.02-06.26.55:067][610]LogWorldPartition: ULevel::OnLevelLoaded(level-blockout)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.02-06.26.55:067][610]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-06.26.55:067][610]LogWorldPartition: UWorldPartition::Initialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-06.26.55:067][610]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.02-06.26.55:072][610]LogWorldPartition: Display: WorldPartition initialize took 5.686 ms (total: 770.245 ms)
+[2025.08.02-06.26.55:072][610]LogPlayLevel: PIE: World Init took: (0.007336s)
+[2025.08.02-06.26.55:073][610]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.08.02-06.26.55:073][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-06.26.55:073][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-06.26.55:073][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-06.26.55:073][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-06.26.55:073][610]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.02-06.26.55:073][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-06.26.55:073][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.02-06.26.55:073][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-06.26.55:073][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-06.26.55:073][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-06.26.55:073][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-06.26.55:075][610]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-06.26.55:096][610]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.02-06.26.55:096][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-06.26.55:096][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-06.26.55:096][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-06.26.55:097][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.08.02-06.26.55:097][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.08.02-06.26.55:099][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.08.02-06.26.55:099][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.08.02-06.26.55:099][610]LogInit: FAudioDevice initialized with ID 10.
+[2025.08.02-06.26.55:099][610]LogAudio: Display: Audio Device (ID: 10) registered with world 'level-blockout'.
+[2025.08.02-06.26.55:099][610]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.02-06.26.55:103][610]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.02-06.26.55:104][610]LogWorld: Bringing World /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout up for play (max tick rate 0) at 2025.08.01-23.26.55
+[2025.08.02-06.26.55:105][610]LogWorld: Bringing up level for play took: 0.001557
+[2025.08.02-06.26.55:106][610]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.08.02-06.26.55:112][610]LogStreaming: Display: FlushAsyncLoading(1839,1838,1837,1836,1835,1834,1833,1832,1831,1830,1829,1828,1827,1826,1825,1824,1823,1822,1821,1820,1819,1818,1817,1816,1815,1814,1813,1811,1812,1810,1809,1808,1807,1806,1805,1804,1803,1802,1801,1799,1800,1798,1797,1793,1794,1795,1796): 47 QueuedPackages, 0 AsyncPackages
+[2025.08.02-06.26.55:264][610]PIE: Server logged in
+[2025.08.02-06.26.55:266][610]PIE: Play in editor total start time 0.285 seconds.
+[2025.08.02-06.27.12:057][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.27.12:057][ 74]LogWorld: BeginTearingDown for /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.27.12:062][ 74]LogWorld: UWorld::CleanupWorld for level-blockout, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-06.27.12:062][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.27.12:062][ 74]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout
+[2025.08.02-06.27.12:064][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-06.27.12:069][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.27.12:099][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-06.27.12:099][ 74]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.02-06.27.12:099][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.08.02-06.27.12:101][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.08.02-06.27.12:104][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.27.12:113][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.08.02-06.27.12:143][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.08.02-06.28.38:216][523]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.02-06.28.38:220][523]LogContentBundle: [level-blockout(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.02-06.28.38:221][523]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' started...
+[2025.08.02-06.28.38:223][523]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' took 2.056 ms (total: 24.419 ms)
+[2025.08.02-06.28.38:223][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-06.28.38:246][523]LogPlayLevel: Creating play world package: /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.28.38:262][523]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.02-06.28.38:266][523]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.870 ms (total: 40.048 ms)
+[2025.08.02-06.28.38:267][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020494s)
+[2025.08.02-06.28.38:267][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout to /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout (0.020539s)
+[2025.08.02-06.28.38:292][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.08.02-06.28.38:295][523]LogChaosDD: Creating Chaos Debug Draw Scene for world level-blockout
+[2025.08.02-06.28.38:297][523]LogWorldPartition: ULevel::OnLevelLoaded(level-blockout)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.02-06.28.38:297][523]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-06.28.38:297][523]LogWorldPartition: UWorldPartition::Initialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-06.28.38:297][523]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.02-06.28.38:303][523]LogWorldPartition: Display: WorldPartition initialize took 5.961 ms (total: 776.206 ms)
+[2025.08.02-06.28.38:303][523]LogPlayLevel: PIE: World Init took: (0.007531s)
+[2025.08.02-06.28.38:304][523]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.08.02-06.28.38:304][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-06.28.38:304][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-06.28.38:304][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-06.28.38:304][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-06.28.38:304][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.02-06.28.38:304][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-06.28.38:304][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.02-06.28.38:304][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-06.28.38:304][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-06.28.38:304][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-06.28.38:304][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-06.28.38:305][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-06.28.38:325][523]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.02-06.28.38:326][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-06.28.38:326][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-06.28.38:326][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-06.28.38:326][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.08.02-06.28.38:326][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.08.02-06.28.38:328][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.08.02-06.28.38:328][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.08.02-06.28.38:328][523]LogInit: FAudioDevice initialized with ID 11.
+[2025.08.02-06.28.38:328][523]LogAudio: Display: Audio Device (ID: 11) registered with world 'level-blockout'.
+[2025.08.02-06.28.38:328][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.02-06.28.38:332][523]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.02-06.28.38:334][523]LogWorld: Bringing World /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout up for play (max tick rate 0) at 2025.08.01-23.28.38
+[2025.08.02-06.28.38:334][523]LogWorld: Bringing up level for play took: 0.001458
+[2025.08.02-06.28.38:336][523]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.08.02-06.28.38:342][523]LogStreaming: Display: FlushAsyncLoading(1887,1886,1885,1884,1883,1882,1881,1880,1879,1878,1877,1876,1875,1874,1873,1872,1871,1870,1869,1868,1867,1866,1865,1864,1863,1862,1861,1859,1860,1858,1857,1856,1855,1854,1853,1852,1851,1850,1849,1847,1848,1846,1845,1841,1842,1843,1844): 47 QueuedPackages, 0 AsyncPackages
+[2025.08.02-06.28.38:489][523]PIE: Server logged in
+[2025.08.02-06.28.38:491][523]PIE: Play in editor total start time 0.271 seconds.
+[2025.08.02-06.28.47:906][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.28.47:906][346]LogWorld: BeginTearingDown for /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.28.47:913][346]LogWorld: UWorld::CleanupWorld for level-blockout, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-06.28.47:913][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.28.47:913][346]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout
+[2025.08.02-06.28.47:915][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-06.28.47:921][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.28.47:952][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.28.47:952][346]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.02-06.28.47:952][346]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.08.02-06.28.47:954][346]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.08.02-06.28.47:964][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.08.02-06.28.47:992][347]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.08.02-06.29.47:684][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5558.099609
+[2025.08.02-06.29.47:821][817]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-06.29.47:821][817]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5558.226074, Update Interval: 346.281311
+[2025.08.02-06.29.54:111][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.08.02-06.29.54:114][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_echoes-of-avalon-MVP/level-blockout' took 0.032
+[2025.08.02-06.29.54:114][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-06.29.54:137][321]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-06.29.54:137][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-06.29.54:159][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2025.08.02-06.29.54:159][321]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter_Auto6852057A54EDB563C22E68FA3AFD7A371.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2025.08.02-06.29.54:159][321]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.08.02-06.30.40:196][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.02-06.30.40:200][623]LogContentBundle: [level-blockout(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.02-06.30.40:200][623]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' started...
+[2025.08.02-06.30.40:202][623]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' took 2.036 ms (total: 26.455 ms)
+[2025.08.02-06.30.40:203][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-06.30.40:226][623]LogPlayLevel: Creating play world package: /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.30.40:242][623]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.02-06.30.40:246][623]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.885 ms (total: 43.934 ms)
+[2025.08.02-06.30.40:247][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020434s)
+[2025.08.02-06.30.40:247][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout to /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout (0.020478s)
+[2025.08.02-06.30.40:273][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-06.30.40:275][623]LogChaosDD: Creating Chaos Debug Draw Scene for world level-blockout
+[2025.08.02-06.30.40:277][623]LogWorldPartition: ULevel::OnLevelLoaded(level-blockout)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.02-06.30.40:277][623]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-06.30.40:277][623]LogWorldPartition: UWorldPartition::Initialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-06.30.40:277][623]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.02-06.30.40:282][623]LogWorldPartition: Display: WorldPartition initialize took 5.676 ms (total: 781.882 ms)
+[2025.08.02-06.30.40:282][623]LogPlayLevel: PIE: World Init took: (0.007185s)
+[2025.08.02-06.30.40:283][623]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.08.02-06.30.40:283][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-06.30.40:283][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-06.30.40:283][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-06.30.40:283][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-06.30.40:283][623]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.02-06.30.40:283][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-06.30.40:283][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.02-06.30.40:283][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-06.30.40:283][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-06.30.40:283][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-06.30.40:283][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-06.30.40:285][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-06.30.40:307][623]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.02-06.30.40:307][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-06.30.40:308][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-06.30.40:308][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-06.30.40:308][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.08.02-06.30.40:308][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.08.02-06.30.40:310][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.08.02-06.30.40:310][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.08.02-06.30.40:310][623]LogInit: FAudioDevice initialized with ID 12.
+[2025.08.02-06.30.40:310][623]LogAudio: Display: Audio Device (ID: 12) registered with world 'level-blockout'.
+[2025.08.02-06.30.40:310][623]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.02-06.30.40:314][623]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.02-06.30.40:315][623]LogWorld: Bringing World /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout up for play (max tick rate 0) at 2025.08.01-23.30.40
+[2025.08.02-06.30.40:315][623]LogWorld: Bringing up level for play took: 0.001533
+[2025.08.02-06.30.40:317][623]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.08.02-06.30.40:323][623]LogStreaming: Display: FlushAsyncLoading(1934,1933,1932,1931,1930,1929,1928,1927,1926,1925,1924,1923,1922,1921,1920,1919,1918,1917,1916,1915,1914,1913,1912,1911,1910,1909,1908,1906,1907,1905,1904,1903,1902,1901,1900,1899,1898,1897,1896,1894,1895,1893,1892,1888,1889,1890,1891): 47 QueuedPackages, 0 AsyncPackages
+[2025.08.02-06.30.40:471][623]PIE: Server logged in
+[2025.08.02-06.30.40:473][623]PIE: Play in editor total start time 0.272 seconds.
+[2025.08.02-06.30.45:577][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.30.45:577][ 55]LogWorld: BeginTearingDown for /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.30.45:584][ 55]LogWorld: UWorld::CleanupWorld for level-blockout, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-06.30.45:584][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.30.45:584][ 55]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout
+[2025.08.02-06.30.45:586][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-06.30.45:591][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.30.45:621][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.30.45:621][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.02-06.30.45:621][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.08.02-06.30.45:623][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.08.02-06.30.45:634][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.08.02-06.30.45:662][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.08.02-06.32.27:312][454]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.02-06.32.27:316][454]LogContentBundle: [level-blockout(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.02-06.32.27:317][454]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' started...
+[2025.08.02-06.32.27:319][454]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' took 2.215 ms (total: 28.671 ms)
+[2025.08.02-06.32.27:320][454]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2025.08.02-06.32.27:399][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.08.02-06.32.27:403][454]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2025.08.02-06.32.27:403][454]LogPlayLevel: Creating play world package: /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.32.27:420][454]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.02-06.32.27:424][454]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.094 ms (total: 48.029 ms)
+[2025.08.02-06.32.27:424][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020904s)
+[2025.08.02-06.32.27:424][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout to /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout (0.020939s)
+[2025.08.02-06.32.27:450][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.08.02-06.32.27:451][454]LogChaosDD: Creating Chaos Debug Draw Scene for world level-blockout
+[2025.08.02-06.32.27:452][454]LogWorldPartition: ULevel::OnLevelLoaded(level-blockout)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.02-06.32.27:452][454]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-06.32.27:452][454]LogWorldPartition: UWorldPartition::Initialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-06.32.27:452][454]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.02-06.32.27:459][454]LogWorldPartition: Display: WorldPartition initialize took 5.793 ms (total: 787.676 ms)
+[2025.08.02-06.32.27:459][454]LogPlayLevel: PIE: World Init took: (0.007620s)
+[2025.08.02-06.32.27:459][454]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.08.02-06.32.27:459][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-06.32.27:459][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-06.32.27:459][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-06.32.27:459][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-06.32.27:459][454]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.02-06.32.27:459][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-06.32.27:459][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.02-06.32.27:460][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-06.32.27:460][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-06.32.27:460][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-06.32.27:460][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-06.32.27:461][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-06.32.27:483][454]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.02-06.32.27:483][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-06.32.27:483][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-06.32.27:483][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-06.32.27:484][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.08.02-06.32.27:484][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.08.02-06.32.27:485][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.08.02-06.32.27:485][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.08.02-06.32.27:485][454]LogInit: FAudioDevice initialized with ID 13.
+[2025.08.02-06.32.27:485][454]LogAudio: Display: Audio Device (ID: 13) registered with world 'level-blockout'.
+[2025.08.02-06.32.27:485][454]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.02-06.32.27:488][454]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.02-06.32.27:490][454]LogWorld: Bringing World /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout up for play (max tick rate 0) at 2025.08.01-23.32.27
+[2025.08.02-06.32.27:490][454]LogWorld: Bringing up level for play took: 0.001498
+[2025.08.02-06.32.27:492][454]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.08.02-06.32.27:498][454]LogStreaming: Display: FlushAsyncLoading(1982,1981,1980,1979,1978,1977,1976,1975,1974,1973,1972,1971,1970,1969,1968,1967,1966,1965,1964,1963,1962,1961,1960,1959,1958,1957,1956,1954,1955,1953,1952,1951,1950,1949,1948,1947,1946,1945,1944,1942,1943,1941,1940,1936,1937,1938,1939): 47 QueuedPackages, 0 AsyncPackages
+[2025.08.02-06.32.27:650][454]PIE: Server logged in
+[2025.08.02-06.32.27:651][454]PIE: Play in editor total start time 0.335 seconds.
+[2025.08.02-06.32.27:721][455]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.088337 > MaxSimulationTimeStep (0.050) for 'Character_UAID_D843AE960136318102_1836568347', movement 'Walking'
+[2025.08.02-06.32.34:987][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.32.34:987][143]LogWorld: BeginTearingDown for /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.32.34:994][143]LogWorld: UWorld::CleanupWorld for level-blockout, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-06.32.34:994][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.32.34:994][143]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout
+[2025.08.02-06.32.34:996][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-06.32.35:002][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.32.35:032][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.32.35:032][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.02-06.32.35:032][143]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.08.02-06.32.35:034][143]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.08.02-06.32.35:043][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.02-06.32.35:075][144]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.08.02-06.33.12:976][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.08.02-06.33.14:556][691]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.02-06.33.14:561][691]LogContentBundle: [level-blockout(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.02-06.33.14:561][691]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' started...
+[2025.08.02-06.33.14:563][691]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' took 1.683 ms (total: 30.354 ms)
+[2025.08.02-06.33.14:563][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-06.33.14:596][691]LogPlayLevel: Creating play world package: /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.33.14:614][691]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.02-06.33.14:618][691]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.975 ms (total: 52.005 ms)
+[2025.08.02-06.33.14:618][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022186s)
+[2025.08.02-06.33.14:618][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout to /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout (0.022274s)
+[2025.08.02-06.33.14:644][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-06.33.14:647][691]LogChaosDD: Creating Chaos Debug Draw Scene for world level-blockout
+[2025.08.02-06.33.14:648][691]LogWorldPartition: ULevel::OnLevelLoaded(level-blockout)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.02-06.33.14:648][691]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-06.33.14:648][691]LogWorldPartition: UWorldPartition::Initialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-06.33.14:648][691]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.02-06.33.14:654][691]LogWorldPartition: Display: WorldPartition initialize took 5.670 ms (total: 793.347 ms)
+[2025.08.02-06.33.14:654][691]LogPlayLevel: PIE: World Init took: (0.007222s)
+[2025.08.02-06.33.14:654][691]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.08.02-06.33.14:654][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-06.33.14:654][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-06.33.14:654][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-06.33.14:654][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-06.33.14:654][691]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.02-06.33.14:654][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-06.33.14:654][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.02-06.33.14:655][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-06.33.14:655][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-06.33.14:655][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-06.33.14:655][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-06.33.14:656][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-06.33.14:677][691]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.02-06.33.14:677][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-06.33.14:677][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-06.33.14:677][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-06.33.14:678][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.08.02-06.33.14:678][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.08.02-06.33.14:679][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.08.02-06.33.14:680][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.08.02-06.33.14:680][691]LogInit: FAudioDevice initialized with ID 14.
+[2025.08.02-06.33.14:680][691]LogAudio: Display: Audio Device (ID: 14) registered with world 'level-blockout'.
+[2025.08.02-06.33.14:680][691]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.02-06.33.14:683][691]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.02-06.33.14:685][691]LogWorld: Bringing World /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout up for play (max tick rate 0) at 2025.08.01-23.33.14
+[2025.08.02-06.33.14:685][691]LogWorld: Bringing up level for play took: 0.001473
+[2025.08.02-06.33.14:687][691]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.08.02-06.33.14:693][691]LogStreaming: Display: FlushAsyncLoading(2031,2030,2029,2028,2027,2026,2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2003,2004,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1991,1992,1990,1989,1985,1986,1987,1988): 47 QueuedPackages, 0 AsyncPackages
+[2025.08.02-06.33.14:839][691]PIE: Server logged in
+[2025.08.02-06.33.14:841][691]PIE: Play in editor total start time 0.28 seconds.
+[2025.08.02-06.33.14:842][691]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:879][692]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:891][693]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:903][694]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:913][695]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:923][696]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:934][697]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:944][698]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:954][699]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:964][700]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:975][701]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:986][702]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.14:996][703]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:007][704]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:017][705]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:027][706]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:038][707]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:049][708]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:059][709]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:069][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:080][711]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:090][712]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:102][713]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:111][714]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:121][715]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:132][716]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:144][717]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:154][718]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:164][719]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:174][720]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:185][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:195][722]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:206][723]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:216][724]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:225][725]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:236][726]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:247][727]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:256][728]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:266][729]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:277][730]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:286][731]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:296][732]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:307][733]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:316][734]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:326][735]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:337][736]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:347][737]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:357][738]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:368][739]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:377][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:388][741]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:397][742]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:408][743]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:418][744]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:428][745]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:438][746]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:448][747]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:458][748]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:469][749]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:478][750]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:489][751]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:498][752]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:509][753]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:520][754]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:530][755]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:540][756]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:550][757]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:559][758]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:570][759]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:579][760]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:590][761]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:601][762]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:611][763]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:622][764]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:632][765]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:642][766]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:651][767]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:661][768]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:672][769]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:682][770]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:692][771]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:702][772]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:712][773]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:722][774]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:732][775]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:742][776]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:753][777]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:762][778]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:772][779]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:782][780]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:793][781]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:803][782]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:813][783]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:824][784]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:833][785]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:843][786]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:853][787]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:863][788]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:873][789]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:883][790]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:893][791]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:903][792]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:914][793]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:923][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:933][795]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:943][796]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:953][797]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:963][798]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:973][799]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:983][800]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.15:993][801]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:003][802]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:013][803]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:023][804]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:033][805]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:043][806]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:053][807]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:063][808]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:073][809]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:083][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:093][811]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:103][812]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:113][813]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:122][814]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:134][815]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:143][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:154][817]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:163][818]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:174][819]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:184][820]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:194][821]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:205][822]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:215][823]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:225][824]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:235][825]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:245][826]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:255][827]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:266][828]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:275][829]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:286][830]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:295][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:307][832]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:318][833]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:327][834]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:338][835]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:348][836]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:358][837]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:368][838]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:379][839]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:390][840]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:399][841]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:410][842]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:420][843]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:431][844]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:441][845]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:451][846]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:461][847]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:472][848]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:483][849]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:493][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:503][851]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:513][852]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:523][853]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:534][854]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:545][855]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:557][856]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:568][857]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:579][858]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:591][859]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:601][860]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:612][861]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:623][862]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:634][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:644][864]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:655][865]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:666][866]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:679][867]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:691][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:701][869]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:711][870]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:721][871]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:733][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:743][873]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:754][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:765][875]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:775][876]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:785][877]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:795][878]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:806][879]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:817][880]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:827][881]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:839][882]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:849][883]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:860][884]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:870][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:881][886]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:892][887]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.16:902][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.17:236][889]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.17:569][890]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.17:903][891]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.18:236][892]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.18:571][893]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.18:902][894]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:236][895]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:248][896]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:257][897]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:269][898]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:278][899]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:289][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:300][901]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:310][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:321][903]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:331][904]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:341][905]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:350][906]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:361][907]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:371][908]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:380][909]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:390][910]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:400][911]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:411][912]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:423][913]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:432][914]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:442][915]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:453][916]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:463][917]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:474][918]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:485][919]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:496][920]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:506][921]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:519][922]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:528][923]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:539][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:549][925]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:559][926]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:570][927]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:580][928]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:589][929]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:599][930]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:610][931]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:619][932]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:630][933]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:639][934]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:650][935]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:659][936]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:670][937]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:680][938]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:690][939]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:701][940]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:712][941]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:723][942]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:735][943]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:745][944]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:756][945]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:766][946]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:776][947]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:787][948]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:797][949]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:807][950]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:818][951]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:828][952]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:838][953]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:849][954]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:859][955]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:870][956]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:879][957]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:890][958]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:900][959]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:911][960]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:921][961]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:931][962]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:941][963]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:952][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:962][965]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:972][966]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:983][967]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.19:994][968]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:003][969]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:014][970]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:024][971]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:036][972]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:045][973]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:056][974]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:067][975]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:076][976]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:086][977]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:097][978]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:107][979]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:118][980]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:127][981]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:137][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:148][983]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:158][984]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:169][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:179][986]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:190][987]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:201][988]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:211][989]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:222][990]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:232][991]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:243][992]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:253][993]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:263][994]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:273][995]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:284][996]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:294][997]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:303][998]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:314][999]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:323][  0]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:334][  1]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:344][  2]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:355][  3]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:365][  4]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:375][  5]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:384][  6]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:394][  7]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:404][  8]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:415][  9]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:425][ 10]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:435][ 11]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:444][ 12]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:454][ 13]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:464][ 14]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:474][ 15]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:486][ 16]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:495][ 17]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:505][ 18]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:515][ 19]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:525][ 20]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:535][ 21]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:546][ 22]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:556][ 23]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:566][ 24]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:576][ 25]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:586][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:595][ 27]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:605][ 28]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:617][ 29]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:626][ 30]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:638][ 31]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:647][ 32]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:658][ 33]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:667][ 34]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:677][ 35]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:687][ 36]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.20:698][ 37]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.21:031][ 38]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.21:364][ 39]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.21:700][ 40]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.22:030][ 41]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.22:364][ 42]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.22:698][ 43]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.23:032][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.23:365][ 45]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.23:698][ 46]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.24:031][ 47]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.24:364][ 48]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.24:699][ 49]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.25:031][ 50]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.25:365][ 51]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.25:699][ 52]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.26:031][ 53]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.26:367][ 54]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.26:699][ 55]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.27:033][ 56]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.27:366][ 57]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.27:700][ 58]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.28:034][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.28:366][ 60]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.28:700][ 61]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.29:035][ 62]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.29:367][ 63]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.29:700][ 64]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.30:034][ 65]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.30:367][ 66]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.30:701][ 67]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.31:034][ 68]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.31:371][ 69]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.31:701][ 70]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.32:076][ 76]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam broke
+[2025.08.02-06.33.32:106][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.33.32:106][ 76]LogWorld: BeginTearingDown for /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.33.32:113][ 76]LogWorld: UWorld::CleanupWorld for level-blockout, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-06.33.32:113][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.33.32:113][ 76]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout
+[2025.08.02-06.33.32:115][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-06.33.32:121][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.33.32:150][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-06.33.32:150][ 76]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.02-06.33.32:150][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.08.02-06.33.32:152][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.08.02-06.33.32:157][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.33.32:163][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.08.02-06.33.32:187][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.08.02-06.34.46:896][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.08.02-06.34.57:738][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.02-06.34.57:743][405]LogContentBundle: [level-blockout(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.02-06.34.57:743][405]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' started...
+[2025.08.02-06.34.57:745][405]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' took 1.857 ms (total: 32.212 ms)
+[2025.08.02-06.34.57:745][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-06.34.57:745][405]LogPlayLevel: Creating play world package: /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.34.57:762][405]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.02-06.34.57:766][405]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.012 ms (total: 56.017 ms)
+[2025.08.02-06.34.57:767][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020854s)
+[2025.08.02-06.34.57:767][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout to /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout (0.020886s)
+[2025.08.02-06.34.57:793][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.08.02-06.34.57:795][405]LogChaosDD: Creating Chaos Debug Draw Scene for world level-blockout
+[2025.08.02-06.34.57:797][405]LogWorldPartition: ULevel::OnLevelLoaded(level-blockout)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.02-06.34.57:797][405]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-06.34.57:797][405]LogWorldPartition: UWorldPartition::Initialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-06.34.57:797][405]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.02-06.34.57:802][405]LogWorldPartition: Display: WorldPartition initialize took 5.737 ms (total: 799.084 ms)
+[2025.08.02-06.34.57:802][405]LogPlayLevel: PIE: World Init took: (0.007297s)
+[2025.08.02-06.34.57:803][405]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.08.02-06.34.57:803][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-06.34.57:803][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-06.34.57:803][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-06.34.57:803][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-06.34.57:803][405]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.02-06.34.57:803][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-06.34.57:803][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.02-06.34.57:803][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-06.34.57:803][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-06.34.57:803][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-06.34.57:803][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-06.34.57:805][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-06.34.57:826][405]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.02-06.34.57:826][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-06.34.57:826][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-06.34.57:826][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-06.34.57:827][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.08.02-06.34.57:827][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.08.02-06.34.57:829][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.08.02-06.34.57:829][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.08.02-06.34.57:829][405]LogInit: FAudioDevice initialized with ID 15.
+[2025.08.02-06.34.57:829][405]LogAudio: Display: Audio Device (ID: 15) registered with world 'level-blockout'.
+[2025.08.02-06.34.57:829][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.02-06.34.57:833][405]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.02-06.34.57:834][405]LogWorld: Bringing World /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout up for play (max tick rate 0) at 2025.08.01-23.34.57
+[2025.08.02-06.34.57:835][405]LogWorld: Bringing up level for play took: 0.001523
+[2025.08.02-06.34.57:837][405]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.08.02-06.34.57:843][405]LogStreaming: Display: FlushAsyncLoading(2078,2077,2076,2075,2074,2073,2072,2071,2070,2069,2068,2067,2066,2065,2064,2063,2062,2061,2060,2059,2058,2057,2056,2055,2054,2053,2052,2050,2051,2049,2048,2047,2046,2045,2044,2043,2042,2041,2040,2038,2039,2037,2036,2032,2033,2034,2035): 47 QueuedPackages, 0 AsyncPackages
+[2025.08.02-06.34.57:992][405]PIE: Server logged in
+[2025.08.02-06.34.57:994][405]PIE: Play in editor total start time 0.251 seconds.
+[2025.08.02-06.34.57:994][405]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.35.05:726][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.35.05:726][120]LogWorld: BeginTearingDown for /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.35.05:734][120]LogWorld: UWorld::CleanupWorld for level-blockout, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-06.35.05:734][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.35.05:734][120]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout
+[2025.08.02-06.35.05:737][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-06.35.05:741][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-06.35.05:772][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-06.35.05:772][120]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.02-06.35.05:772][120]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.08.02-06.35.05:774][120]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.08.02-06.35.05:779][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-06.35.05:785][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.08.02-06.35.05:812][121]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.08.02-06.36.31:713][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5962.136719
+[2025.08.02-06.36.32:713][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-06.36.32:713][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5962.804199, Update Interval: 349.319122
+[2025.08.02-06.40.10:381][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.08.02-06.40.13:437][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.02-06.40.13:442][719]LogContentBundle: [level-blockout(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.02-06.40.13:442][719]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' started...
+[2025.08.02-06.40.13:445][719]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' took 2.419 ms (total: 34.632 ms)
+[2025.08.02-06.40.13:445][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-06.40.13:476][719]LogPlayLevel: Creating play world package: /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout
+[2025.08.02-06.40.13:492][719]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.02-06.40.13:497][719]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.892 ms (total: 59.909 ms)
+[2025.08.02-06.40.13:497][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020729s)
+[2025.08.02-06.40.13:497][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout to /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout (0.020796s)
+[2025.08.02-06.40.13:524][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.08.02-06.40.13:526][719]LogChaosDD: Creating Chaos Debug Draw Scene for world level-blockout
+[2025.08.02-06.40.13:528][719]LogWorldPartition: ULevel::OnLevelLoaded(level-blockout)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.02-06.40.13:528][719]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-06.40.13:528][719]LogWorldPartition: UWorldPartition::Initialize : World = /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-06.40.13:528][719]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.02-06.40.13:534][719]LogWorldPartition: Display: WorldPartition initialize took 5.973 ms (total: 805.058 ms)
+[2025.08.02-06.40.13:534][719]LogPlayLevel: PIE: World Init took: (0.007635s)
+[2025.08.02-06.40.13:535][719]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.08.02-06.40.13:535][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-06.40.13:535][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-06.40.13:535][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-06.40.13:535][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-06.40.13:535][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.02-06.40.13:535][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-06.40.13:535][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.02-06.40.13:535][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-06.40.13:535][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-06.40.13:535][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-06.40.13:535][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-06.40.13:537][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-06.40.13:558][719]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.02-06.40.13:559][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-06.40.13:559][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-06.40.13:559][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-06.40.13:559][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.08.02-06.40.13:559][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.08.02-06.40.13:561][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.08.02-06.40.13:561][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.08.02-06.40.13:561][719]LogInit: FAudioDevice initialized with ID 16.
+[2025.08.02-06.40.13:561][719]LogAudio: Display: Audio Device (ID: 16) registered with world 'level-blockout'.
+[2025.08.02-06.40.13:561][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.02-06.40.13:564][719]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.02-06.40.13:566][719]LogWorld: Bringing World /Game/_echoes-of-avalon-MVP/UEDPIE_0_level-blockout.level-blockout up for play (max tick rate 0) at 2025.08.01-23.40.13
+[2025.08.02-06.40.13:566][719]LogWorld: Bringing up level for play took: 0.001619
+[2025.08.02-06.40.13:568][719]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.08.02-06.40.13:574][719]LogStreaming: Display: FlushAsyncLoading(2125,2124,2123,2122,2121,2120,2119,2118,2117,2116,2115,2114,2113,2112,2111,2110,2109,2108,2107,2106,2105,2104,2103,2102,2101,2100,2099,2097,2098,2096,2095,2094,2093,2092,2091,2090,2089,2088,2087,2085,2086,2084,2083,2079,2080,2081,2082): 47 QueuedPackages, 0 AsyncPackages
+[2025.08.02-06.40.13:725][719]PIE: Server logged in
+[2025.08.02-06.40.13:726][719]PIE: Play in editor total start time 0.284 seconds.
+[2025.08.02-06.40.13:727][719]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:763][720]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:770][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:787][722]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:799][723]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:808][724]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:817][725]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:826][726]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:835][727]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:844][728]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:853][729]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:861][730]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:869][731]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:878][732]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:888][733]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:897][734]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:906][735]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:915][736]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:924][737]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:932][738]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:941][739]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:950][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:959][741]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:968][742]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:977][743]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:987][744]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.13:995][745]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:014][746]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:024][747]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:032][748]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:042][749]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:051][750]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:059][751]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:068][752]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:077][753]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:085][754]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:093][755]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:103][756]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:111][757]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:120][758]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:128][759]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:138][760]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:146][761]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:155][762]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:163][763]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:174][764]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:181][765]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:191][766]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:200][767]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:208][768]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:217][769]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:225][770]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:234][771]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:244][772]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:253][773]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:261][774]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:270][775]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:277][776]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:286][777]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:295][778]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:304][779]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:313][780]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:321][781]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:330][782]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:339][783]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:348][784]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:357][785]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:366][786]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:375][787]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:384][788]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:393][789]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:401][790]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:410][791]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:418][792]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:427][793]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:436][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:445][795]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:453][796]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:462][797]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:471][798]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:479][799]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:489][800]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:497][801]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:507][802]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:515][803]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:524][804]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:532][805]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:542][806]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:550][807]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:560][808]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:567][809]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:577][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:586][811]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:594][812]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:602][813]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:612][814]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:620][815]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:629][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:638][817]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:647][818]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:656][819]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:664][820]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:674][821]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:683][822]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:691][823]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:700][824]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:708][825]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:717][826]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:726][827]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:734][828]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:744][829]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:753][830]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:761][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:769][832]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:779][833]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:787][834]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:795][835]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:804][836]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:814][837]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:823][838]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:831][839]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:840][840]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:849][841]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:858][842]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:866][843]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:877][844]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:884][845]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:893][846]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:902][847]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:911][848]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:920][849]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:928][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:937][851]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:947][852]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:955][853]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:964][854]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:973][855]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:981][856]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:990][857]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.14:999][858]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:008][859]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:017][860]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:025][861]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:034][862]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:043][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:051][864]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:059][865]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:069][866]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:077][867]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:086][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:095][869]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:103][870]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:113][871]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:122][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:130][873]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:139][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:147][875]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:158][876]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:166][877]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:175][878]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:183][879]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:192][880]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:200][881]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:209][882]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:218][883]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:227][884]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:235][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:244][886]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:253][887]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:262][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:271][889]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:280][890]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:288][891]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:297][892]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:307][893]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:315][894]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:324][895]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:333][896]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:341][897]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:350][898]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:359][899]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:367][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:377][901]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:385][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:394][903]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:403][904]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:411][905]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:420][906]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:428][907]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:437][908]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:446][909]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:455][910]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:463][911]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:473][912]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:481][913]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:490][914]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:498][915]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:508][916]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:517][917]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:525][918]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:534][919]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:543][920]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:551][921]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:560][922]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:569][923]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:577][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:586][925]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:595][926]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:603][927]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:612][928]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:620][929]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:629][930]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:639][931]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:647][932]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:657][933]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:665][934]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:674][935]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:682][936]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:692][937]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:700][938]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:709][939]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:717][940]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:726][941]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:735][942]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:744][943]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:753][944]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:761][945]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:770][946]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:780][947]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:788][948]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:797][949]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:805][950]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:814][951]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:823][952]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:832][953]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:841][954]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:850][955]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:858][956]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:867][957]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:876][958]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:884][959]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:893][960]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:902][961]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:911][962]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:920][963]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:928][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:937][965]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:945][966]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:954][967]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:962][968]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:973][969]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:981][970]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:989][971]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.15:998][972]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:007][973]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:015][974]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:024][975]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:033][976]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:043][977]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:050][978]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:060][979]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:069][980]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:077][981]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:085][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:094][983]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:104][984]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:112][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:120][986]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:129][987]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:138][988]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:147][989]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:155][990]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:163][991]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:174][992]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:182][993]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:191][994]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:199][995]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:208][996]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:217][997]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:225][998]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:234][999]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:244][  0]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:252][  1]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:261][  2]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:270][  3]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:278][  4]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:287][  5]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:295][  6]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:304][  7]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:313][  8]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:322][  9]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:331][ 10]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:340][ 11]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:348][ 12]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:357][ 13]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:365][ 14]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:374][ 15]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:383][ 16]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:392][ 17]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:401][ 18]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:409][ 19]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:418][ 20]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:427][ 21]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:435][ 22]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:444][ 23]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:453][ 24]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:461][ 25]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:471][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:479][ 27]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:488][ 28]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:497][ 29]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:506][ 30]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:515][ 31]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:524][ 32]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:533][ 33]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:542][ 34]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:550][ 35]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:559][ 36]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:568][ 37]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:576][ 38]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:585][ 39]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:594][ 40]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:602][ 41]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:610][ 42]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:619][ 43]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:629][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:637][ 45]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:646][ 46]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:655][ 47]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:663][ 48]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:673][ 49]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:681][ 50]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:690][ 51]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:699][ 52]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:708][ 53]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:717][ 54]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:725][ 55]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:734][ 56]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:743][ 57]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:751][ 58]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:760][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:769][ 60]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:778][ 61]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:785][ 62]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:795][ 63]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:803][ 64]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:813][ 65]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:822][ 66]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:830][ 67]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:839][ 68]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:848][ 69]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:857][ 70]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:865][ 71]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:874][ 72]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:883][ 73]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:892][ 74]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:900][ 75]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:909][ 76]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:918][ 77]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:926][ 78]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:935][ 79]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:943][ 80]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:952][ 81]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:961][ 82]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:969][ 83]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:979][ 84]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:988][ 85]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.16:997][ 86]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:005][ 87]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:014][ 88]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:023][ 89]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:032][ 90]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:041][ 91]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:049][ 92]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:059][ 93]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:068][ 94]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:076][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:085][ 96]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:093][ 97]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:102][ 98]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:111][ 99]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:119][100]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:129][101]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:137][102]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:145][103]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:154][104]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:163][105]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:173][106]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:181][107]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:190][108]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:198][109]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:208][110]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:216][111]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:226][112]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:234][113]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:243][114]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:253][115]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:261][116]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:270][117]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:279][118]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:288][119]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:296][120]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:306][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:314][122]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:323][123]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:332][124]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:341][125]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:350][126]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.40.17:684][127]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.21:126][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.08.02-06.41.22:564][326]LogSlate: Window 'Save Content' being destroyed
+[2025.08.02-06.41.22:682][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-06.41.22:682][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-06.41.22:729][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-06.41.22:729][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-06.41.22:754][326]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.08.02-06.41.22:754][326]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter64B7663D4ED8219C54BA56A15B63B336.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.08.02-06.41.22:755][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.262 ms (total: 1:27 min)
+[2025.08.02-06.41.22:759][326]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-06.41.22:759][326]LogContentValidation: Enabled validators:
+[2025.08.02-06.41.22:759][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-06.41.22:759][326]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-06.41.22:759][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-06.41.22:759][326]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-06.41.22:759][326]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-06.41.22:759][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-06.41.22:759][326]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.08.02-06.41.31:885][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.08.02-06.41.31:905][195]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.31:953][196]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.31:972][197]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.31:983][198]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.31:995][199]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:008][200]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:019][201]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:030][202]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:042][203]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:054][204]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:065][205]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:077][206]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:089][207]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:100][208]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:111][209]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:123][210]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:135][211]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:146][212]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:158][213]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:169][214]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:180][215]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:191][216]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:203][217]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:213][218]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:224][219]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:235][220]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:246][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:258][222]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:269][223]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:280][224]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:291][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:302][226]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:313][227]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:324][228]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:335][229]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:346][230]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:357][231]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:369][232]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:379][233]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:390][234]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:402][235]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:413][236]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:425][237]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:437][238]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:447][239]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:458][240]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:469][241]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:479][242]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:490][243]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:501][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:512][245]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:523][246]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:534][247]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:545][248]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:556][249]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:568][250]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:578][251]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:589][252]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:600][253]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:611][254]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:623][255]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:633][256]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:644][257]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:656][258]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:666][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:677][260]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:689][261]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:700][262]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:711][263]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:722][264]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:733][265]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:744][266]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:755][267]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:766][268]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:777][269]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:788][270]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:799][271]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:809][272]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:822][273]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:834][274]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:844][275]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.32:855][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.33:188][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.33:522][278]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.33:855][279]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.34:188][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.34:522][281]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.34:855][282]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.35:188][283]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.35:522][284]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
+[2025.08.02-06.41.35:855][285]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] stam regen
