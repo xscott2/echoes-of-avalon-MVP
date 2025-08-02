@@ -2505,3 +2505,24 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.08.02-19.48.17:954][456]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter_Auto1
 [2025.08.02-19.48.17:954][456]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter_Auto19C91C5394BB5136E496651A5D48F0274.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter_Auto1.uasset'
 [2025.08.02-19.48.17:955][456]LogFileHelpers: Auto-saving content packages took 0.068
+[2025.08.02-19.50.25:957][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.02-19.50.28:199][207]LogSlate: Window 'Save Content' being destroyed
+[2025.08.02-19.50.28:361][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-19.50.28:361][207]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-19.50.28:361][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter]
+[2025.08.02-19.50.28:383][207]LogSavePackage: Moving output files for package: /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter
+[2025.08.02-19.50.28:383][207]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacterBC2B409940D7042630C0F4BE2E4126F6.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter.uasset'
+[2025.08.02-19.50.28:384][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.739 ms (total: 1:13 min)
+[2025.08.02-19.50.28:384][207]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout
+[2025.08.02-19.50.28:510][207]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-19.50.28:510][207]LogContentValidation: Enabled validators:
+[2025.08.02-19.50.28:510][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-19.50.28:510][207]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-19.50.28:510][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-19.50.28:510][207]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-19.50.28:510][207]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-19.50.28:510][207]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-19.50.28:510][207]AssetCheck: /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter Validating asset
+[2025.08.02-19.50.30:021][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1002.391541
+[2025.08.02-19.50.30:155][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-19.50.30:155][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1002.516724, Update Interval: 310.968353
