@@ -1,0 +1,23 @@
+# Unreal-specific ignore rules
+.vscode/
+.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+.pdb
+
+# User-specific ignores
+[Dd]eveloper/
+
+# Git LFS setup
+# Tell Git to track large binary files using LFS.
+# We will need to uncomment these lines and configure them for your projects.
+# *.uasset filter=lfs diff=lfs merge=lfs -text
+# *.umap filter=lfs diff=lfs merge=lfs -text
