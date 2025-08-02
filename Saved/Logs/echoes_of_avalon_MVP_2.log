@@ -2409,3 +2409,99 @@ Script Stack (0 frames) :
 [2025.08.02-19.42.44:106][303]LogStats:                SubmitErrorReport -  0.000 s
 [2025.08.02-19.42.47:235][303]LogStats:                    SendNewReport -  3.128 s
 [2025.08.02-19.42.47:235][303]LogStats:             FDebug::EnsureFailed -  3.168 s
+[2025.08.02-19.45.02:006][966]LogStreaming: Display: FlushAsyncLoading(757): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-19.45.02:295][966]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.08.02-19.45.07:166][302]LogSlate: Window 'Message' being destroyed
+[2025.08.02-19.45.07:173][302]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_ThirdPersonGameMode
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.08.02-19.45.07:871][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.07:871][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.07:871][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.07:871][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.07:871][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:019][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:019][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:019][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:019][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:019][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:019][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:019][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:019][302]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.08:104][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-19.45.08:105][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.08.02-19.45.08:105][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonGameMode]
+[2025.08.02-19.45.08:115][302]LogSavePackage: Moving output files for package: /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonGameMode
+[2025.08.02-19.45.08:115][302]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonGameModeBC0DFBD14C42A00A05143C9057122A21.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonGameMode.uasset'
+[2025.08.02-19.45.08:117][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([5] browsable assets)...
+[2025.08.02-19.45.08:117][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.08.02-19.45.08:122][302]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2025.08.02-19.45.08:122][302]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonGameMode095F7A26445E122525EE5E9F3EE4A8DB.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2025.08.02-19.45.08:125][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-19.45.08:125][302]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.08.02-19.45.08:153][302]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2025.08.02-19.45.08:153][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter]
+[2025.08.02-19.45.08:176][302]LogSavePackage: Moving output files for package: /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter
+[2025.08.02-19.45.08:176][302]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacterF38392FD436E9FDCC0FD2D891778723E.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter.uasset'
+[2025.08.02-19.45.08:179][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([5] browsable assets)...
+[2025.08.02-19.45.08:179][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.02-19.45.08:185][302]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.08.02-19.45.08:185][302]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter7A02EA12412D328C01A5B5B9B989DA1D.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.08.02-19.45.08:298][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.744 ms (total: 1:13 min)
+[2025.08.02-19.45.08:312][302]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.08.02-19.45.08:312][302]LogContentValidation: Display: Starting to validate 8 assets
+[2025.08.02-19.45.08:312][302]LogContentValidation: Enabled validators:
+[2025.08.02-19.45.08:312][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-19.45.08:312][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-19.45.08:312][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-19.45.08:312][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-19.45.08:312][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-19.45.08:312][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-19.45.08:312][302]AssetCheck: /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonGameMode Validating asset
+[2025.08.02-19.45.08:312][302]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2025.08.02-19.45.08:312][302]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2025.08.02-19.45.08:312][302]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2025.08.02-19.45.08:312][302]AssetCheck: /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter Validating asset
+[2025.08.02-19.45.08:312][302]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.08.02-19.45.08:312][302]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.08.02-19.45.08:312][302]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.08.02-19.45.15:258][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 687.630005
+[2025.08.02-19.45.15:382][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-19.45.15:382][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 687.746399, Update Interval: 310.224915
+[2025.08.02-19.45.41:201][414]LogSlate: Window 'Message' being destroyed
+[2025.08.02-19.45.41:207][414]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+level-blockout
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.08.02-19.45.41:802][414]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.41:802][414]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.41:802][414]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.41:802][414]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2025.08.02-19.45.43:385][585]LogSlate: Window 'Failed Renames' being destroyed
+[2025.08.02-19.45.47:348][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.08.02-19.45.47:351][ 38]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout
+[2025.08.02-19.45.50:570][384]LogSlate: Window 'level-blockout' being destroyed
+[2025.08.02-19.46.00:352][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.08.02-19.46.00:355][485]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/_echoes-of-avalon-MVP/level-blockout.level-blockout
+[2025.08.02-19.46.05:215][  7]LogSlate: Window 'level-blockout' being destroyed
+[2025.08.02-19.46.16:496][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.08.02-19.46.16:496][294]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.08.02-19.46.16:519][294]LogStreaming: Display: FlushAsyncLoading(758): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-19.46.18:035][294]LogSlate: Took 0.004787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.08.02-19.46.18:059][294]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.08.02-19.46.18:219][295]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.08.02-19.46.20:754][545]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.02-19.47.20:328][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.02-19.48.17:884][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-19.48.17:886][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.023
+[2025.08.02-19.48.17:888][456]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.02-19.48.17:931][456]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.08.02-19.48.17:931][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter]
+[2025.08.02-19.48.17:954][456]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter_Auto1
+[2025.08.02-19.48.17:954][456]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_ThirdPersonCharacter_Auto19C91C5394BB5136E496651A5D48F0274.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/_echoes-of-avalon-MVP/Characters/BP_ThirdPersonCharacter_Auto1.uasset'
+[2025.08.02-19.48.17:955][456]LogFileHelpers: Auto-saving content packages took 0.068
