@@ -1482,3 +1482,122 @@ FPackageName: Skipped package /Game/ParagonAurora/Characters/Maps/BackGroundAsse
 [2025.08.04-10.33.34:241][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 347.913391, Update Interval: 317.364410
 [2025.08.04-10.33.59:516][454]LogAutomationController: Ignoring very large delta of 2.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.08.04-10.34.04:474][455]LogAutomationController: Ignoring very large delta of 4.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.04-10.38.16:381][123]LogAutomationController: Ignoring very large delta of 76.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.04-10.38.30:751][124]LogAutomationController: Ignoring very large delta of 14.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.04-10.38.38:579][125]LogAutomationController: Ignoring very large delta of 7.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineLightProfiles: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineLightProfiles' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineSounds/1kSineTonePing.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineSounds/1kSineTonePing.uasset' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.39:746][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset' is outside repository at 'C:/Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP'
+[2025.08.04-10.38.54:984][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 668.988770
+[2025.08.04-10.38.55:335][114]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.04-10.38.55:335][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.330078, Update Interval: 311.755737
+[2025.08.04-10.44.14:505][593]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 988.510254
+[2025.08.04-10.44.15:839][596]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.04-10.44.15:839][596]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 989.511108, Update Interval: 319.050873
+[2025.08.04-10.45.19:134][598]LogAutomationController: Ignoring very large delta of 62.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.04-10.48.09:132][286]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.04-10.48.09:143][286]LogContentBundle: [level-blockout(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.04-10.48.09:143][286]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' started...
+[2025.08.04-10.48.09:152][286]LogWorldPartition: Display: GenerateStreaming for 'level-blockout' took 8.721 ms
+[2025.08.04-10.48.09:159][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.04-10.48.09:159][286]BlueprintLog: Warning: Blueprint failed to compile:  Aurora_AnimBlueprint
+[2025.08.04-10.48.11:276][286]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.08.04-10.48.11:296][286]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.08.04-10.48.11:296][286]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.08.04-10.48.11:299][286]LogPlayLevel: Creating play world package: /Game/_echoes-of-avalon-MVP/art/levels/UEDPIE_0_level-blockout
+[2025.08.04-10.48.11:319][286]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.04-10.48.11:323][286]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.046 ms
+[2025.08.04-10.48.11:323][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024345s)
+[2025.08.04-10.48.11:323][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_echoes-of-avalon-MVP/art/levels/level-blockout.level-blockout to /Game/_echoes-of-avalon-MVP/art/levels/UEDPIE_0_level-blockout.level-blockout (0.024707s)
+[2025.08.04-10.48.11:394][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.08.04-10.48.11:398][286]LogChaosDD: Creating Chaos Debug Draw Scene for world level-blockout
+[2025.08.04-10.48.11:400][286]LogWorldPartition: ULevel::OnLevelLoaded(level-blockout)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.04-10.48.11:400][286]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.04-10.48.11:400][286]LogWorldPartition: UWorldPartition::Initialize : World = /Game/_echoes-of-avalon-MVP/art/levels/UEDPIE_0_level-blockout.level-blockout, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.04-10.48.11:400][286]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.04-10.48.11:408][286]LogWorldPartition: Display: WorldPartition initialize took 7.140 ms (total: 390.128 ms)
+[2025.08.04-10.48.11:408][286]LogPlayLevel: PIE: World Init took: (0.009736s)
+[2025.08.04-10.48.11:410][286]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.08.04-10.48.11:410][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.04-10.48.11:410][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.04-10.48.11:410][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.04-10.48.11:410][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.04-10.48.11:410][286]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.04-10.48.11:410][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.04-10.48.11:410][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.04-10.48.11:410][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.04-10.48.11:410][286]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.04-10.48.11:410][286]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.04-10.48.11:410][286]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.04-10.48.11:412][286]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.04-10.48.11:434][286]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.04-10.48.11:434][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.04-10.48.11:434][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.04-10.48.11:434][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.04-10.48.11:435][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.08.04-10.48.11:435][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.08.04-10.48.11:437][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.08.04-10.48.11:437][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.08.04-10.48.11:437][286]LogInit: FAudioDevice initialized with ID 2.
+[2025.08.04-10.48.11:437][286]LogAudio: Display: Audio Device (ID: 2) registered with world 'level-blockout'.
+[2025.08.04-10.48.11:437][286]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.04-10.48.11:450][286]LogLoad: Game class is 'BP_echoes-of-avalon-GameMode_C'
+[2025.08.04-10.48.11:453][286]LogWorld: Bringing World /Game/_echoes-of-avalon-MVP/art/levels/UEDPIE_0_level-blockout.level-blockout up for play (max tick rate 0) at 2025.08.04-03.48.11
+[2025.08.04-10.48.11:455][286]LogWorld: Bringing up level for play took: 0.002632
+[2025.08.04-10.48.11:457][286]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2025.08.04-10.48.11:518][286]LogStreaming: Display: FlushAsyncLoading(534,533,532,531,530,529,528,527,526,525,524,523,522,521,520,519,518,517,516,515,514,513,512,511,510,509,508,507,506,505,504,503,502,500,501,499,498,497,496,492,493,494,495,491,487,488,489,490,486): 49 QueuedPackages, 0 AsyncPackages
+[2025.08.04-10.48.11:677][286]PIE: Server logged in
+[2025.08.04-10.48.11:680][286]PIE: Play in editor total start time 2.541 seconds.
+[2025.08.04-10.48.11:695][286]LogBlueprintUserMessages: [BP_zephyra_C_0] stam regen
+[2025.08.04-10.48.11:776][286]LogAutomationController: Ignoring very large delta of 2.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.04-10.48.13:724][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.04-10.48.13:725][503]LogWorld: BeginTearingDown for /Game/_echoes-of-avalon-MVP/art/levels/UEDPIE_0_level-blockout
+[2025.08.04-10.48.13:740][503]LogWorld: UWorld::CleanupWorld for level-blockout, bSessionEnded=true, bCleanupResources=true
+[2025.08.04-10.48.13:742][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.04-10.48.13:742][503]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/_echoes-of-avalon-MVP/art/levels/UEDPIE_0_level-blockout.level-blockout
+[2025.08.04-10.48.13:748][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.04-10.48.13:751][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.04-10.48.13:775][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.04-10.48.13:775][503]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.04-10.48.13:778][503]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.08.04-10.48.13:781][503]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.08.04-10.48.13:800][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.08.04-10.48.13:822][504]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.08.04-10.48.21:575][273]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.04-10.48.21:987][288]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.08.04-10.48.24:422][556]LogStreaming: Display: FlushAsyncLoading(535): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.04-10.48.27:293][888]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.04-10.48.27:300][888]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.04-10.48.41:953][604]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_echoes-of-avalon-MVP/art/blueprints/characters/BP_zephyra.BP_zephyra
+[2025.08.04-10.48.41:955][604]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.08.04-10.48.42:142][604]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.04-10.48.44:231][604]LogSlate: Took 0.007953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.08.04-10.48.44:333][604]LogSlate: Took 0.005825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.08.04-10.48.44:585][604]LogAutomationController: Ignoring very large delta of 2.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.04-10.48.56:073][642]LogStreaming: Display: FlushAsyncLoading(736): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.04-10.48.56:176][642]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2025.08.04-10.48.56:232][642]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.08.04-10.48.56:314][646]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.08.04-10.48.59:748][ 21]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.08.04-10.49.04:078][459]LogStreaming: Display: FlushAsyncLoading(737): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.04-10.49.06:277][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.04-10.49.45:040][404]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1319.044678
+[2025.08.04-10.49.45:319][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.04-10.49.45:319][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1319.315186, Update Interval: 351.102631
+[2025.08.04-10.49.49:494][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.04-10.49.49:498][872]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_echoes-of-avalon-MVP/art/levels/level-blockout' took 0.028
+[2025.08.04-10.49.49:499][872]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_echoes-of-avalon-MVP/art/blueprints/characters/BP_zephyra] ([2] browsable assets)...
+[2025.08.04-10.49.49:499][872]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.04-10.49.49:511][872]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_echoes-of-avalon-MVP/art/blueprints/characters/BP_zephyra.BP_zephyra_C]
+[2025.08.04-10.49.49:514][872]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_echoes-of-avalon-MVP/art/blueprints/characters/BP_zephyra.BP_zephyra]
+[2025.08.04-10.49.49:514][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/_echoes-of-avalon-MVP/art/blueprints/characters/BP_zephyra]
+[2025.08.04-10.49.49:561][872]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_echoes-of-avalon-MVP/art/blueprints/characters/BP_zephyra_Auto1
+[2025.08.04-10.49.49:561][872]LogSavePackage: Moving '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/BP_zephyra_Auto150C4D62C4D80642806A33FBFA0B5A656.tmp' to '../../../../../../Users/xscot/Desktop/echoes of avalon reborn/echoes-of-avalon-MVP/Saved/Autosaves/Game/_echoes-of-avalon-MVP/art/blueprints/characters/BP_zephyra_Auto1.uasset'
+[2025.08.04-10.49.49:565][872]LogFileHelpers: Auto-saving content packages took 0.068
