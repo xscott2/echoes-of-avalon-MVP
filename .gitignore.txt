@@ -1,0 +1,46 @@
+# Exclude Visual Studio user and project files
+.vs/
+.vscode/
+
+# Exclude user-specific settings
+*/.user
+*.suo
+*.user
+*.userprefs
+*.v12.suo
+*.v14.suo
+
+# Exclude derived data and intermediate files
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Exclude development files
+.DS_Store
+.gitattributes
+.gitconfig
+
+# Exclude packages and installers
+*.exe
+*.msi
+*.pdb
+*.pif
+*.com
+*.bat
+*.cmd
+*.dll
+*.lib
+
+# Exclude archives
+*.zip
+*.rar
+*.7z
+
+# Exclude asset files not meant for version control
+*.udatasmith
+*.unreal
+*.upack
+*.uasset
+*.umap
